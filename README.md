@@ -1,14 +1,14 @@
 # mail.gw-Temporary-E-Mail-generator
 
-This project is a Python script that generates temporary email addresses using the `mail.gw` API. It can also retrieve verification links from the generated email inbox.
+This project generates a temporary email address, password, and token using the `mail.gw` API.
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.x
 - `httpx` library
 
 ## Installation
 
 1. Clone the repository or download the script.
-2. Install the required dependencies using pip:
+2. Install the required library using pip:
 
